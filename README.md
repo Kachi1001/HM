@@ -1,5 +1,5 @@
 # HM
-HM ou melhor dizendo HomeMade, projeto para estudar sobre rede e servidores local. n\
+HM ou melhor dizendo HomeMade, projeto para estudar sobre rede e servidores local.
 
 No projeto inicial teremos como;
 OS vamos ter Ubuntu
